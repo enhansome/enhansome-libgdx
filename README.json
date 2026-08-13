@@ -1,0 +1,930 @@
+{
+  "items": [
+    {
+      "description": "Resources that can be used in libGDX code to boost the framework's capabilities.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gdx-ai",
+          "description": "Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-01T16:56:55Z",
+            "owner": "libgdx",
+            "repo": "gdx-ai",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Graphs",
+          "description": "A java library for graph data structures and algorithms (including fast pathfinding).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-10T19:25:32Z",
+            "owner": "earlygrey",
+            "repo": "simple-graphs",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Algorithms and AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sdl2gdx",
+          "description": "Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-01T18:59:36Z",
+            "owner": "electronstudio",
+            "repo": "sdl2gdx",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-controllers",
+          "description": "Adds support to gamepads and joysticks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-08T15:44:51Z",
+            "owner": "libgdx",
+            "repo": "gdx-controllers",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-controllerutils",
+          "description": "Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-19T13:26:03Z",
+            "owner": "MrStahlfelge",
+            "repo": "gdx-controllerutils",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Controllers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HyperLap2D",
+          "description": "Visual editor for complex 2D worlds and scenes with a runtime for libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T18:20:51Z",
+            "owner": "rednblackgames",
+            "repo": "HyperLap2D",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mundus",
+          "description": "World/level editor for 3D worlds with a runtime for libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-18T22:52:28Z",
+            "owner": "JamesTKhan",
+            "repo": "Mundus",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ashley",
+          "description": "A Java entity system inspired by Ash & Artemis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-26T12:37:20Z",
+            "owner": "libgdx",
+            "repo": "ashley",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artemis-odb",
+          "description": "High performance java based Entity-Component-System framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-14T23:11:51Z",
+            "owner": "junkdog",
+            "repo": "artemis-odb",
+            "stars": 832
+          }
+        }
+      ],
+      "title": "Entity Component System (ECS)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "steamworks4j",
+          "description": "A thin wrapper which allows Java applications to access the Steamworks C++ API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-06T20:32:58Z",
+            "owner": "code-disaster",
+            "repo": "steamworks4j",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-pay",
+          "description": "Provides a cross-platform API for InApp purchasing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-16T05:28:01Z",
+            "owner": "libgdx",
+            "repo": "gdx-pay",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-gamesvcs",
+          "description": "Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-11T14:57:39Z",
+            "owner": "MrStahlfelge",
+            "repo": "gdx-gamesvcs",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-fireapp",
+          "description": "Cross-platform API for Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-15T10:58:43Z",
+            "owner": "mk-5",
+            "repo": "gdx-fireapp",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-facebook",
+          "description": "Provides cross-platform support for Facebook Graph API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-04T21:07:05Z",
+            "owner": "TomGrill",
+            "repo": "gdx-facebook",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-firebase",
+          "description": "Cross-platform (only Desktop/Android) API for Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-24T11:02:58Z",
+            "owner": "TomGrill",
+            "repo": "gdx-firebase",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-gameanalytics",
+          "description": "Game Analytics REST API client implementation for libGDX. Works on all backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-02-06T11:40:25Z",
+            "owner": "MrStahlfelge",
+            "repo": "gdx-gameanalytics",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Packr",
+          "description": "Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-11T04:01:21Z",
+            "owner": "libgdx",
+            "repo": "packr",
+            "stars": 2620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-liftoff",
+          "description": "A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T05:46:10Z",
+            "owner": "libgdx",
+            "repo": "gdx-liftoff",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libgdx-library-template",
+          "description": "A skeleton project for making new libraries, since they need different config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-02T04:34:51Z",
+            "owner": "tommyettinger",
+            "repo": "libgdx-library-template",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Setup and Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VisUI",
+          "description": "Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-02T13:43:37Z",
+            "owner": "kotcrab",
+            "repo": "vis-ui",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-skins",
+          "description": "Free Scene2D GUI skins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-22T06:24:01Z",
+            "owner": "czyzby",
+            "repo": "gdx-skins",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skin Composer",
+          "description": "Create skins for libGDX scene2d.ui with a graphical interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-20T14:39:55Z",
+            "owner": "raeleus",
+            "repo": "skin-composer",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypingLabel",
+          "description": "A libGDX Label that appears as if it was being typed in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-30T13:16:06Z",
+            "owner": "rafaskb",
+            "repo": "typing-label",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InGameConsole",
+          "description": "Allows a developer to add a console (similar to how it is featured in Source games) to their game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-09-17T00:39:05Z",
+            "owner": "StrongJoshua",
+            "repo": "libgdx-inGameConsole",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextraTypist",
+          "description": "Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T08:14:50Z",
+            "owner": "tommyettinger",
+            "repo": "textratypist",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PieMenu",
+          "description": "Radial menus for Scene2D that are highly flexible and easy to customize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-01T06:27:29Z",
+            "owner": "payne911",
+            "repo": "PieMenu",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-dialogs",
+          "description": "Provides cross-platform support for native dialogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-31T16:47:25Z",
+            "owner": "TomGrill",
+            "repo": "gdx-dialogs",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TenPatch",
+          "description": "An alternative to libGDX's 9patch implementation that implements multiple stretch regions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-30T16:12:01Z",
+            "owner": "raeleus",
+            "repo": "TenPatch",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msdf-gdx",
+          "description": "Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-12-21T22:21:34Z",
+            "owner": "maltaisn",
+            "repo": "msdf-gdx",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "User Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Box2DLights",
+          "description": "2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-17T02:13:47Z",
+            "owner": "libgdx",
+            "repo": "box2dlights",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-gltf",
+          "description": "GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-05T13:39:25Z",
+            "owner": "mgsx-dev",
+            "repo": "gdx-gltf",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-vfx",
+          "description": "Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T21:37:33Z",
+            "owner": "crashinvaders",
+            "repo": "gdx-vfx",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shape Drawer",
+          "description": "A performant alternative to ShapeRenderer that avoids Batch flushing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-20T14:33:12Z",
+            "owner": "earlygrey",
+            "repo": "shapedrawer",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libgdx-screenmanager",
+          "description": "A screen manager for libGDX supporting various transition effects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-09T22:03:33Z",
+            "owner": "crykn",
+            "repo": "libgdx-screenmanager",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colorful-gdx",
+          "description": "Expands how tinting can affect colors; also has many pre-written shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-29T08:22:25Z",
+            "owner": "tommyettinger",
+            "repo": "colorful-gdx",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Particle Park",
+          "description": "A showcase of downloadable particle effects with live previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-01T15:23:20Z",
+            "owner": "raeleus",
+            "repo": "Particle-Park",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-graph",
+          "description": "Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-26T10:43:14Z",
+            "owner": "MarcinSc",
+            "repo": "gdx-graph",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackLights",
+          "description": "Lightweight framebuffer based lighting engine for libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-08-31T18:50:15Z",
+            "owner": "aliasifk",
+            "repo": "HackLights",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Visual Effects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gdx-miniaudio",
+          "description": "Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T18:39:39Z",
+            "owner": "rednblackgames",
+            "repo": "gdx-miniaudio",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuningFork",
+          "description": "Advanced 3D audio features for libGDX desktop users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-09T22:35:10Z",
+            "owner": "Hangman",
+            "repo": "TuningFork",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-pd",
+          "description": "Pure Data extension for libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-28T08:43:27Z",
+            "owner": "mgsx-dev",
+            "repo": "gdx-pd",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-sfx",
+          "description": "Some goodies for better sound effects in libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-25T12:11:19Z",
+            "owner": "spookygames",
+            "repo": "gdx-sfx",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KTX",
+          "description": "Kotlin extensions and utilities for libGDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-06-28T20:52:55Z",
+            "owner": "libktx",
+            "repo": "ktx",
+            "stars": 1460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Texture Packer GUI",
+          "description": "A simple way to pack and manage texture atlases for libGDX game framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-09T12:17:06Z",
+            "owner": "crashinvaders",
+            "repo": "gdx-texture-packer-gui",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libGDX Plugin",
+          "description": "A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-29T13:24:50Z",
+            "owner": "BlueBoxWare",
+            "repo": "LibGDXPlugin",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noise4j",
+          "description": "Simple map generators based on various procedural content generation tutorials.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-03-07T20:50:41Z",
+            "owner": "czyzby",
+            "repo": "noise4j",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-jnigen",
+          "description": "Small library that allows C/C++ code to be written inline with Java source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T02:14:55Z",
+            "owner": "libgdx",
+            "repo": "gdx-jnigen",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anim8-gdx",
+          "description": "Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-30T04:47:58Z",
+            "owner": "tommyettinger",
+            "repo": "anim8-gdx",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdxGifRecorder",
+          "description": "A utility class that records a GIF and saves it automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-11-20T01:03:44Z",
+            "owner": "Anuken",
+            "repo": "GDXGifRecorder",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-dbgagent",
+          "description": "Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-25T22:36:32Z",
+            "owner": "PokeMMO",
+            "repo": "gdx-dbgagent",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "Tutorials for newbies and seasoned developers alike.",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deploying with JPackage",
+          "description": "A tutorial on deploying libGDX games with JPackage via Gradle commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-20T14:39:55Z",
+            "owner": "raeleus",
+            "repo": "skin-composer",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progress Bar Design",
+          "description": "Discusses the pros and cons of different progress bar design techniques with examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-20T14:39:55Z",
+            "owner": "raeleus",
+            "repo": "skin-composer",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene2D.UI From the Ground Up",
+          "description": "Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-20T14:39:55Z",
+            "owner": "raeleus",
+            "repo": "skin-composer",
+            "stars": 477
+          }
+        }
+      ],
+      "title": "Getting Started"
+    },
+    {
+      "description": "Other awesome lists that might be useful to libGDX developers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": "A curated list of awesome Java frameworks, libraries and software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T00:17:55Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic Tools",
+          "description": "A list of Game Development resources to make magic happen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-10T17:51:51Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin",
+          "description": "A curated list of awesome Kotlin related stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-03T03:10:34Z",
+            "owner": "Heapy",
+            "repo": "awesome-kotlin",
+            "stars": 11376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game Networking",
+          "description": "A Curated List of Game Network Programming Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T19:50:44Z",
+            "owner": "0xFA11",
+            "repo": "MultiplayerNetworkingResources",
+            "stars": 8631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Gamedev",
+          "description": "A collection of free software and free culture resources for making amazing games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T19:10:59Z",
+            "owner": "Calinou",
+            "repo": "awesome-gamedev",
+            "stars": 3097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game Talks",
+          "description": "A curated list of gaming talks (development, design, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-09T00:58:26Z",
+            "owner": "hzoo",
+            "repo": "awesome-gametalks",
+            "stars": 1179
+          }
+        }
+      ],
+      "title": "Other Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:42:21.515Z",
+    "original_repository": "rafaskb/awesome-libgdx",
+    "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
+    "enhanced_repository": "enhansome/enhansome-libgdx",
+    "enhanced_repository_description": null,
+    "title": "Awesome libGDX with stars"
+  }
+}
