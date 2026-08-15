@@ -284,7 +284,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T05:46:10Z",
+            "last_commit": "2026-08-15T08:18:25Z",
             "owner": "libgdx",
             "repo": "gdx-liftoff",
             "stars": 677
@@ -388,7 +388,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T08:24:46Z",
+            "last_commit": "2026-08-15T08:01:39Z",
             "owner": "tommyettinger",
             "repo": "textratypist",
             "stars": 135
@@ -492,7 +492,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-09T21:37:33Z",
+            "last_commit": "2026-08-15T17:20:01Z",
             "owner": "crashinvaders",
             "repo": "gdx-vfx",
             "stars": 212
@@ -832,7 +832,7 @@
             "last_commit": "2026-08-10T00:17:55Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48738
+            "stars": 48743
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-10T17:51:51Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17124
+            "stars": 17129
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2026-07-03T03:10:34Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11375
+            "stars": 11373
           }
         },
         {
@@ -874,7 +874,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8633
+            "stars": 8635
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3097
+            "stars": 3101
           }
         },
         {
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:35:54.000Z",
+    "last_updated": "2026-08-15T18:01:00.893Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
     "enhanced_repository": "enhansome/enhansome-libgdx",
