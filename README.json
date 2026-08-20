@@ -180,7 +180,7 @@
                 "last_commit": "2026-05-06T20:32:58Z",
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 549
+                "stars": 548
               }
             },
             {
@@ -304,10 +304,10 @@
                 "archived": false,
                 "id": 188758773,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T03:55:38Z",
+                "last_commit": "2026-08-20T02:06:51Z",
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 678
+                "stars": 679
               }
             },
             {
@@ -319,7 +319,7 @@
                 "archived": false,
                 "id": 409007702,
                 "language": null,
-                "last_commit": "2026-02-02T04:34:51Z",
+                "last_commit": "2026-08-20T01:33:33Z",
                 "owner": "tommyettinger",
                 "repo": "libgdx-library-template",
                 "stars": 14
@@ -782,7 +782,7 @@
                 "archived": false,
                 "id": 266897474,
                 "language": "Java",
-                "last_commit": "2026-05-30T04:47:58Z",
+                "last_commit": "2026-08-20T07:14:46Z",
                 "owner": "tommyettinger",
                 "repo": "anim8-gdx",
                 "stars": 54
@@ -896,10 +896,10 @@
             "archived": false,
             "id": 21648001,
             "language": null,
-            "last_commit": "2026-08-17T00:12:13Z",
+            "last_commit": "2026-08-19T18:23:37Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48786
+            "stars": 48797
           }
         },
         {
@@ -914,7 +914,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17151
+            "stars": 17164
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2026-07-03T03:10:34Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11373
+            "stars": 11374
           }
         },
         {
@@ -944,7 +944,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8647
+            "stars": 8649
           }
         },
         {
@@ -959,7 +959,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3105
+            "stars": 3107
           }
         },
         {
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:12:57.758Z",
+    "last_updated": "2026-08-20T18:16:53.872Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
