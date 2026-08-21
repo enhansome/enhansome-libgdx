@@ -17,7 +17,7 @@
                 "last_commit": "2024-10-01T16:56:55Z",
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1301
+                "stars": 1300
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-18T01:30:40Z",
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 439
+                "stars": 440
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2023-06-26T12:37:20Z",
                 "owner": "libgdx",
                 "repo": "ashley",
-                "stars": 931
+                "stars": 929
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2023-04-14T23:11:51Z",
                 "owner": "junkdog",
                 "repo": "artemis-odb",
-                "stars": 832
+                "stars": 831
               }
             }
           ],
@@ -180,7 +180,7 @@
                 "last_commit": "2026-05-06T20:32:58Z",
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 548
+                "stars": 547
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-06-16T05:28:01Z",
                 "owner": "libgdx",
                 "repo": "gdx-pay",
-                "stars": 242
+                "stars": 243
               }
             },
             {
@@ -344,7 +344,7 @@
                 "last_commit": "2026-06-02T13:43:37Z",
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 772
+                "stars": 770
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-07-17T02:13:47Z",
                 "owner": "libgdx",
                 "repo": "box2dlights",
-                "stars": 266
+                "stars": 265
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-08-15T17:20:01Z",
                 "owner": "crashinvaders",
                 "repo": "gdx-vfx",
-                "stars": 212
+                "stars": 211
               }
             },
             {
@@ -576,7 +576,7 @@
                 "last_commit": "2026-04-29T08:22:25Z",
                 "owner": "tommyettinger",
                 "repo": "colorful-gdx",
-                "stars": 91
+                "stars": 90
               }
             },
             {
@@ -710,7 +710,7 @@
                 "last_commit": "2025-06-28T20:52:55Z",
                 "owner": "libktx",
                 "repo": "ktx",
-                "stars": 1461
+                "stars": 1462
               }
             },
             {
@@ -770,7 +770,7 @@
                 "last_commit": "2026-08-18T13:18:05Z",
                 "owner": "libgdx",
                 "repo": "gdx-jnigen",
-                "stars": 88
+                "stars": 87
               }
             },
             {
@@ -899,7 +899,7 @@
             "last_commit": "2026-08-19T18:23:37Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48797
+            "stars": 48807
           }
         },
         {
@@ -914,7 +914,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17164
+            "stars": 17173
           }
         },
         {
@@ -959,7 +959,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:16:53.872Z",
+    "last_updated": "2026-08-21T18:16:25.789Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
