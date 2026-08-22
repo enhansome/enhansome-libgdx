@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-18T01:30:40Z",
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 440
+                "stars": 441
               }
             },
             {
@@ -899,7 +899,7 @@
             "last_commit": "2026-08-19T18:23:37Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48807
+            "stars": 48817
           }
         },
         {
@@ -914,7 +914,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17173
+            "stars": 17178
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2026-07-03T03:10:34Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11374
+            "stars": 11375
           }
         },
         {
@@ -944,7 +944,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8649
+            "stars": 8652
           }
         },
         {
@@ -974,7 +974,7 @@
             "last_commit": "2024-05-09T00:58:26Z",
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1179
+            "stars": 1180
           }
         }
       ],
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:16:25.789Z",
+    "last_updated": "2026-08-22T18:01:17.464Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
