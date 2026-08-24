@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 280444703,
                 "language": "Java",
-                "last_commit": "2026-08-22T20:05:21Z",
+                "last_commit": "2026-08-24T09:30:23Z",
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
                 "stars": 441
@@ -170,6 +170,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "jbump",
+              "description": "Easy to implement AABB collision detection useful for platformers and other simple 2D games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273582440,
+                "language": "Java",
+                "last_commit": "2021-02-16T09:21:36Z",
+                "owner": "tommyettinger",
+                "repo": "jbump",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Physics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "steamworks4j",
               "description": "A thin wrapper which allows Java applications to access the Steamworks C++ API.",
               "children": [],
@@ -180,7 +202,7 @@
                 "last_commit": "2026-05-06T20:32:58Z",
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 547
+                "stars": 546
               }
             },
             {
@@ -416,7 +438,7 @@
                 "archived": false,
                 "id": 408038659,
                 "language": "Java",
-                "last_commit": "2026-08-18T10:40:19Z",
+                "last_commit": "2026-08-24T02:40:55Z",
                 "owner": "tommyettinger",
                 "repo": "textratypist",
                 "stars": 135
@@ -725,7 +747,7 @@
                 "last_commit": "2024-08-09T12:17:06Z",
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -880,6 +902,28 @@
           "description": null,
           "node_type": "group",
           "title": "Getting Started"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Book of Shaders",
+              "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32267301,
+                "language": "GLSL",
+                "last_commit": "2026-02-28T03:07:50Z",
+                "owner": "patriciogonzalezvivo",
+                "repo": "thebookofshaders",
+                "stars": 6989
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Learning Material"
         }
       ],
       "title": "Tutorials"
@@ -896,10 +940,10 @@
             "archived": false,
             "id": 21648001,
             "language": null,
-            "last_commit": "2026-08-19T18:23:37Z",
+            "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48827
+            "stars": 48835
           }
         },
         {
@@ -914,7 +958,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17189
+            "stars": 17191
           }
         },
         {
@@ -929,7 +973,7 @@
             "last_commit": "2026-08-23T16:44:33Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11375
+            "stars": 11376
           }
         },
         {
@@ -982,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:01:21.686Z",
+    "last_updated": "2026-08-24T14:12:07.398Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
