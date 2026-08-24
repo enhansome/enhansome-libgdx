@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 499,564 | 🐛 106 | 📅 2026-08-21.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 48,835 | 🐛 3 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,191 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - A list of Game Development resources to make magic happen.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 48,838 | 🐛 3 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,192 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - A list of Game Development resources to make magic happen.
 * [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,376 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,655 | 🐛 2 | 🌐 C | 📅 2026-07-29 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,109 | 🐛 16 | 📅 2026-07-07 - A collection of free software and free culture resources for making amazing games.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,658 | 🐛 2 | 🌐 C | 📅 2026-07-29 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,110 | 🐛 16 | 📅 2026-07-07 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 

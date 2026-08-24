@@ -943,7 +943,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48835
+            "stars": 48838
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17191
+            "stars": 17192
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8655
+            "stars": 8658
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3109
+            "stars": 3110
           }
         },
         {
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:07.398Z",
+    "last_updated": "2026-08-24T18:18:10.619Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
