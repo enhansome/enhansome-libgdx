@@ -329,7 +329,7 @@
                 "last_commit": "2026-08-25T03:27:37Z",
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 680
+                "stars": 681
               }
             },
             {
@@ -583,7 +583,7 @@
                 "last_commit": "2025-08-09T22:03:33Z",
                 "owner": "crykn",
                 "repo": "libgdx-screenmanager",
-                "stars": 113
+                "stars": 114
               }
             },
             {
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48840
+            "stars": 48842
           }
         },
         {
@@ -955,7 +955,7 @@
             "archived": false,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-17T17:57:40Z",
+            "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
             "stars": 17194
@@ -988,7 +988,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8661
+            "stars": 8664
           }
         },
         {
@@ -1000,10 +1000,10 @@
             "archived": false,
             "id": 41116605,
             "language": null,
-            "last_commit": "2026-07-07T19:10:59Z",
+            "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3110
+            "stars": 3111
           }
         },
         {
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:58.788Z",
+    "last_updated": "2026-08-25T18:18:01.239Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
