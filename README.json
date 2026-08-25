@@ -326,10 +326,10 @@
                 "archived": false,
                 "id": 188758773,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T02:06:51Z",
+                "last_commit": "2026-08-25T03:27:37Z",
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 679
+                "stars": 680
               }
             },
             {
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48838
+            "stars": 48840
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17192
+            "stars": 17194
           }
         },
         {
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-23T16:44:33Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11376
+            "stars": 11377
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8658
+            "stars": 8661
           }
         },
         {
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:18:10.619Z",
+    "last_updated": "2026-08-25T06:06:58.788Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
