@@ -326,10 +326,10 @@
                 "archived": false,
                 "id": 188758773,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T03:27:37Z",
+                "last_commit": "2026-08-26T08:54:21Z",
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 681
+                "stars": 682
               }
             },
             {
@@ -598,7 +598,7 @@
                 "last_commit": "2026-04-29T08:22:25Z",
                 "owner": "tommyettinger",
                 "repo": "colorful-gdx",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -917,7 +917,7 @@
                 "last_commit": "2026-02-28T03:07:50Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 6989
+                "stars": 6990
               }
             }
           ],
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48842
+            "stars": 48854
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17194
+            "stars": 17199
           }
         },
         {
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-23T16:44:33Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11377
+            "stars": 11376
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8664
+            "stars": 8667
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3111
+            "stars": 3113
           }
         },
         {
@@ -1026,7 +1026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:18:01.239Z",
+    "last_updated": "2026-08-26T19:27:31.934Z",
     "original_repository": "rafaskb/awesome-libgdx",
     "original_repository_id": 188639913,
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
