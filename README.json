@@ -326,10 +326,10 @@
                 "archived": false,
                 "id": 188758773,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T08:54:21Z",
+                "last_commit": "2026-08-27T08:45:59Z",
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 682
+                "stars": 683
               }
             },
             {
@@ -396,7 +396,7 @@
                 "last_commit": "2024-05-20T14:39:55Z",
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 477
+                "stars": 478
               }
             },
             {
@@ -438,7 +438,7 @@
                 "archived": false,
                 "id": 408038659,
                 "language": "Java",
-                "last_commit": "2026-08-24T02:40:55Z",
+                "last_commit": "2026-08-27T04:25:07Z",
                 "owner": "tommyettinger",
                 "repo": "textratypist",
                 "stars": 135
@@ -865,7 +865,7 @@
                 "last_commit": "2024-05-20T14:39:55Z",
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 477
+                "stars": 478
               }
             },
             {
@@ -880,7 +880,7 @@
                 "last_commit": "2024-05-20T14:39:55Z",
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 477
+                "stars": 478
               }
             },
             {
@@ -895,7 +895,7 @@
                 "last_commit": "2024-05-20T14:39:55Z",
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 477
+                "stars": 478
               }
             }
           ],
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48854
+            "stars": 48857
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17199
+            "stars": 17204
           }
         },
         {
@@ -985,10 +985,10 @@
             "archived": false,
             "id": 118740023,
             "language": "C",
-            "last_commit": "2026-07-29T19:50:44Z",
+            "last_commit": "2026-08-27T10:58:50Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8667
+            "stars": 8668
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3113
+            "stars": 3114
           }
         },
         {
@@ -1026,9 +1026,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:31.934Z",
-    "original_repository": "rafaskb/awesome-libgdx",
-    "original_repository_id": 188639913,
+    "last_updated": "2026-08-27T11:47:16.853Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188639913,
+      "language": null,
+      "last_commit": "2024-12-03T21:43:58Z",
+      "owner": "rafaskb",
+      "repo": "awesome-libgdx",
+      "stars": 1270
+    },
     "original_repository_sha": "93102878e1b59430845b85d1d8ea057a497d57cb",
     "enhanced_repository": "enhansome/enhansome-libgdx",
     "enhanced_repository_description": null,
