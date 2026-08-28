@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 500,557 | 🐛 105 | 📅 2026-08-21.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -80,7 +80,7 @@
 ### Setup and Deployment
 
 * [Packr](https://github.com/libGDX/packr) ⭐ 2,621 | 🐛 31 | 🌐 C++ | 📅 2024-04-11 - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
-* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 683 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-27 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 684 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-28 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 * [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) ⭐ 14 | 🐛 0 | 📅 2026-08-20 - A skeleton project for making new libraries, since they need different config.
 
 ### User Interface
@@ -119,7 +119,7 @@
 
 ### Others
 
-* [KTX](https://github.com/libktx/ktx) ⭐ 1,462 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
+* [KTX](https://github.com/libktx/ktx) ⭐ 1,463 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
 * [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 707 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
 * [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) ⭐ 159 | 🐛 2 | 🌐 Kotlin | 📅 2026-05-29 - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 * [noise4j](https://github.com/czyzby/noise4j) ⚠️ Archived - Simple map generators based on various procedural content generation tutorials.
@@ -155,7 +155,7 @@
 
 ### General Learning Material
 
-* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 6,990 | 🐛 68 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 6,991 | 🐛 68 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
@@ -179,10 +179,10 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 48,857 | 🐛 3 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,204 | 🐛 14 | 🌐 Markdown | 📅 2026-08-25 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,376 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,668 | 🐛 2 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 48,870 | 🐛 3 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,208 | 🐛 14 | 🌐 Markdown | 📅 2026-08-25 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,378 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 - A curated list of awesome Kotlin related stuff.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,670 | 🐛 2 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
 * [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,114 | 🐛 15 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
