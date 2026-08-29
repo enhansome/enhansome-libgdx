@@ -18,7 +18,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-01T16:56:55Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
                 "stars": 1300,
@@ -205,7 +205,7 @@
                 "open_issues": 22,
                 "owner": "JamesTKhan",
                 "repo": "Mundus",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "3d-editor",
                   "libgdx",
@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "bindings",
                   "java",
@@ -1191,7 +1191,7 @@
                 "language": "Kotlin",
                 "license": "CC0-1.0",
                 "last_commit": "2025-06-28T20:52:55Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "libktx",
                 "repo": "ktx",
                 "stars": 1463,
@@ -1236,7 +1236,7 @@
                 "open_issues": 18,
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
-                "stars": 707,
+                "stars": 708,
                 "topics": [
                   "libgdx",
                   "texture-atlas",
@@ -1532,7 +1532,7 @@
             "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48878,
+            "stars": 48883,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:14:32Z",
+            "last_commit": "2026-08-29T10:42:24Z",
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212,
+            "stars": 17215,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 20,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11377,
+            "stars": 11378,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1619,7 +1619,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
             "stars": 8671,
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:22.205Z",
+    "last_updated": "2026-08-29T20:00:23.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
