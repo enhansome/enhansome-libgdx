@@ -18,7 +18,8 @@
                 "owner": "libgdx",
                 "repo": "gdx-ai",
                 "stars": 1300
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "earlygrey",
                 "repo": "simple-graphs",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2024-10-01T18:59:36Z",
                 "owner": "electronstudio",
                 "repo": "sdl2gdx",
-                "stars": 88
-              }
+                "stars": 87
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "libgdx",
                 "repo": "gdx-controllers",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "MrStahlfelge",
                 "repo": "gdx-controllerutils",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "JamesTKhan",
                 "repo": "Mundus",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -144,7 +151,8 @@
                 "owner": "libgdx",
                 "repo": "ashley",
                 "stars": 929
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "junkdog",
                 "repo": "artemis-odb",
                 "stars": 831
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -181,7 +190,8 @@
                 "owner": "tommyettinger",
                 "repo": "jbump",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -203,7 +213,8 @@
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -218,7 +229,8 @@
                 "owner": "libgdx",
                 "repo": "gdx-pay",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -233,7 +245,8 @@
                 "owner": "MrStahlfelge",
                 "repo": "gdx-gamesvcs",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "mk-5",
                 "repo": "gdx-fireapp",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "TomGrill",
                 "repo": "gdx-facebook",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "TomGrill",
                 "repo": "gdx-firebase",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "MrStahlfelge",
                 "repo": "gdx-gameanalytics",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -315,7 +332,8 @@
                 "owner": "libgdx",
                 "repo": "packr",
                 "stars": 2621
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -330,7 +348,8 @@
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
                 "stars": 684
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -345,7 +364,8 @@
                 "owner": "tommyettinger",
                 "repo": "libgdx-library-template",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -367,7 +387,8 @@
                 "owner": "kotcrab",
                 "repo": "vis-ui",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "czyzby",
                 "repo": "gdx-skins",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -397,7 +419,8 @@
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "rafaskb",
                 "repo": "typing-label",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "StrongJoshua",
                 "repo": "libgdx-inGameConsole",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "tommyettinger",
                 "repo": "textratypist",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -457,7 +483,8 @@
                 "owner": "payne911",
                 "repo": "PieMenu",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -472,7 +499,8 @@
                 "owner": "TomGrill",
                 "repo": "gdx-dialogs",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -487,7 +515,8 @@
                 "owner": "raeleus",
                 "repo": "TenPatch",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -502,7 +531,8 @@
                 "owner": "maltaisn",
                 "repo": "msdf-gdx",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -524,7 +554,8 @@
                 "owner": "libgdx",
                 "repo": "box2dlights",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "mgsx-dev",
                 "repo": "gdx-gltf",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -554,7 +586,8 @@
                 "owner": "crashinvaders",
                 "repo": "gdx-vfx",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -569,7 +602,8 @@
                 "owner": "earlygrey",
                 "repo": "shapedrawer",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -584,7 +618,8 @@
                 "owner": "crykn",
                 "repo": "libgdx-screenmanager",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -599,7 +634,8 @@
                 "owner": "tommyettinger",
                 "repo": "colorful-gdx",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -614,7 +650,8 @@
                 "owner": "raeleus",
                 "repo": "Particle-Park",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "MarcinSc",
                 "repo": "gdx-graph",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -644,7 +682,8 @@
                 "owner": "aliasifk",
                 "repo": "HackLights",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -666,7 +705,8 @@
                 "owner": "rednblackgames",
                 "repo": "gdx-miniaudio",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -681,7 +721,8 @@
                 "owner": "Hangman",
                 "repo": "TuningFork",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -696,7 +737,8 @@
                 "owner": "mgsx-dev",
                 "repo": "gdx-pd",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -711,7 +753,8 @@
                 "owner": "spookygames",
                 "repo": "gdx-sfx",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -733,7 +776,8 @@
                 "owner": "libktx",
                 "repo": "ktx",
                 "stars": 1463
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -748,7 +792,8 @@
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
                 "stars": 707
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -763,7 +808,8 @@
                 "owner": "BlueBoxWare",
                 "repo": "LibGDXPlugin",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -778,7 +824,8 @@
                 "owner": "czyzby",
                 "repo": "noise4j",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -793,7 +840,8 @@
                 "owner": "libgdx",
                 "repo": "gdx-jnigen",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -808,7 +856,8 @@
                 "owner": "tommyettinger",
                 "repo": "anim8-gdx",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -823,7 +872,8 @@
                 "owner": "Anuken",
                 "repo": "GDXGifRecorder",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -838,7 +888,8 @@
                 "owner": "PokeMMO",
                 "repo": "gdx-dbgagent",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -866,7 +917,8 @@
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -881,7 +933,8 @@
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             },
             {
               "node_type": "item",
@@ -896,7 +949,8 @@
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -917,8 +971,9 @@
                 "last_commit": "2026-02-28T03:07:50Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 6991
-              }
+                "stars": 6993
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
             }
           ],
           "description": null,
@@ -943,8 +998,9 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48870
-          }
+            "stars": 48877
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         },
         {
           "node_type": "item",
@@ -955,11 +1011,12 @@
             "archived": false,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "last_commit": "2026-08-28T17:26:39Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17208
-          }
+            "stars": 17212
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         },
         {
           "node_type": "item",
@@ -970,11 +1027,12 @@
             "archived": false,
             "id": 40936978,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T16:44:33Z",
+            "last_commit": "2026-08-28T05:11:53Z",
             "owner": "Heapy",
             "repo": "awesome-kotlin",
             "stars": 11378
-          }
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         },
         {
           "node_type": "item",
@@ -988,8 +1046,9 @@
             "last_commit": "2026-08-27T10:58:50Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8670
-          }
+            "stars": 8671
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         },
         {
           "node_type": "item",
@@ -1003,8 +1062,9 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3114
-          }
+            "stars": 3116
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         },
         {
           "node_type": "item",
@@ -1019,14 +1079,15 @@
             "owner": "hzoo",
             "repo": "awesome-gametalks",
             "stars": 1180
-          }
+          },
+          "first_seen": "2026-08-29T01:11:30.231Z"
         }
       ],
       "title": "Other Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:22.599Z",
+    "last_updated": "2026-08-29T01:11:30.231Z",
     "original_repository_info": {
       "archived": false,
       "id": 188639913,
