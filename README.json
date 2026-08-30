@@ -18,7 +18,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-01T16:56:55Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
                 "stars": 1300,
@@ -177,7 +177,7 @@
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "2d-game",
                   "cross-platform",
@@ -523,7 +523,7 @@
                 "id": 188758773,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T00:54:40Z",
+                "last_commit": "2026-08-30T08:03:44Z",
                 "open_issues": 20,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
@@ -589,7 +589,7 @@
                 "open_issues": 27,
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 770,
+                "stars": 771,
                 "topics": [
                   "gui",
                   "java",
@@ -709,7 +709,7 @@
                 "id": 408038659,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T04:25:07Z",
+                "last_commit": "2026-08-29T23:59:20Z",
                 "open_issues": 8,
                 "owner": "tommyettinger",
                 "repo": "textratypist",
@@ -1191,7 +1191,7 @@
                 "language": "Kotlin",
                 "license": "CC0-1.0",
                 "last_commit": "2025-06-28T20:52:55Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "libktx",
                 "repo": "ktx",
                 "stars": 1463,
@@ -1309,7 +1309,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T13:18:05Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "libgdx",
                 "repo": "gdx-jnigen",
                 "stars": 87,
@@ -1489,7 +1489,7 @@
                 "open_issues": 68,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 6993,
+                "stars": 6994,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48883,
+            "stars": 48897,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17215,
+            "stars": 17220,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 20,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11378,
+            "stars": 11379,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 2,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8671,
+            "stars": 8672,
             "topics": [
               "cpp",
               "csharp",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:00:23.370Z",
+    "last_updated": "2026-08-30T20:07:08.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1270,
+      "stars": 1271,
       "topics": [
         "awesome",
         "awesome-list",
