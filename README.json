@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "bindings",
                   "java",
@@ -1086,7 +1086,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-16T15:02:23Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "rednblackgames",
                 "repo": "gdx-miniaudio",
                 "stars": 77,
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48914,
+            "stars": 48924,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17239,
+            "stars": 17244,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 20,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11381,
+            "stars": 11380,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1664,7 +1664,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3120,
+            "stars": 3122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:08:29.580Z",
+    "last_updated": "2026-09-03T20:09:26.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
