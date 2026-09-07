@@ -589,7 +589,7 @@
                 "open_issues": 27,
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "gui",
                   "java",
@@ -615,7 +615,7 @@
                 "open_issues": 1,
                 "owner": "czyzby",
                 "repo": "gdx-skins",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "assets",
                   "game-assets",
@@ -1194,7 +1194,7 @@
                 "open_issues": 12,
                 "owner": "libktx",
                 "repo": "ktx",
-                "stars": 1465,
+                "stars": 1466,
                 "topics": [
                   "android",
                   "async",
@@ -1489,7 +1489,7 @@
                 "open_issues": 68,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7003,
+                "stars": 7004,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1532,7 +1532,7 @@
             "open_issues": 8,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48942,
+            "stars": 48951,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17259,
+            "stars": 17262,
             "topics": [
               "art",
               "awesome",
@@ -1664,7 +1664,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3123,
+            "stars": 3124,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:37:11.756Z",
+    "last_updated": "2026-09-07T20:48:37.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1271,
+      "stars": 1272,
       "topics": [
         "awesome",
         "awesome-list",
