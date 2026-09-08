@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-trees",
@@ -524,7 +524,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T10:32:16Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
                 "stars": 683,
@@ -709,7 +709,7 @@
                 "id": 408038659,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T10:29:40Z",
+                "last_commit": "2026-09-08T07:34:17Z",
                 "open_issues": 7,
                 "owner": "tommyettinger",
                 "repo": "textratypist",
@@ -1532,7 +1532,7 @@
             "open_issues": 8,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48951,
+            "stars": 48958,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17262,
+            "stars": 17266,
             "topics": [
               "art",
               "awesome",
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8679,
+            "stars": 8683,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3124,
+            "stars": 3126,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:48:37.236Z",
+    "last_updated": "2026-09-08T20:20:16.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
