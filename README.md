@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 505,711 | 🐛 106 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 506,030 | 🐛 106 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -80,12 +80,12 @@
 ### Setup and Deployment
 
 * [Packr](https://github.com/libGDX/packr) ⭐ 2,623 | 🐛 31 | 🌐 C++ | 📅 2024-04-11 - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
-* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 683 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-12 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 683 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-14 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 * [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) ⭐ 14 | 🐛 0 | 📅 2026-08-20 - A skeleton project for making new libraries, since they need different config.
 
 ### User Interface
 
-* [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 773 | 🐛 27 | 🌐 Java | 📅 2026-06-02 - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+* [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 774 | 🐛 27 | 🌐 Java | 📅 2026-06-02 - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 * [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 537 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
 * [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
 * [TypingLabel](https://github.com/rafaskb/typing-label) ⭐ 161 | 🐛 3 | 🌐 Java | 📅 2024-05-30 - A libGDX Label that appears as if it was being typed in real time.
@@ -119,7 +119,7 @@
 
 ### Others
 
-* [KTX](https://github.com/libktx/ktx) ⭐ 1,467 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
+* [KTX](https://github.com/libktx/ktx) ⭐ 1,468 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
 * [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 708 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
 * [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) ⭐ 159 | 🐛 2 | 🌐 Kotlin | 📅 2026-05-29 - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 * [noise4j](https://github.com/czyzby/noise4j) ⚠️ Archived - Simple map generators based on various procedural content generation tutorials.
@@ -155,7 +155,7 @@
 
 ### General Learning Material
 
-* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,015 | 🐛 71 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,017 | 🐛 71 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
@@ -179,12 +179,12 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,006 | 🐛 13 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,297 | 🐛 17 | 🌐 Markdown | 📅 2026-09-01 - A list of Game Development resources to make magic happen.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,014 | 🐛 17 | 📅 2026-08-24 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,301 | 🐛 15 | 🌐 Markdown | 📅 2026-09-14 - A list of Game Development resources to make magic happen.
 * [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,379 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-11 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,690 | 🐛 3 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,131 | 🐛 17 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
-* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,693 | 🐛 3 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,134 | 🐛 17 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,181 | 🐛 6 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
 ***
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
