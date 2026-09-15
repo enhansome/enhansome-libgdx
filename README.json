@@ -173,7 +173,7 @@
                 "id": 280444703,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-24T09:30:23Z",
+                "last_commit": "2026-09-15T20:06:42Z",
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
@@ -506,7 +506,7 @@
                 "open_issues": 31,
                 "owner": "libgdx",
                 "repo": "packr",
-                "stars": 2623,
+                "stars": 2622,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -523,7 +523,7 @@
                 "id": 188758773,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T08:57:46Z",
+                "last_commit": "2026-09-15T03:16:01Z",
                 "open_issues": 20,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
@@ -1489,7 +1489,7 @@
                 "open_issues": 71,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7017,
+                "stars": 7018,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1532,7 +1532,7 @@
             "open_issues": 17,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49014,
+            "stars": 49024,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17301,
+            "stars": 17307,
             "topics": [
               "art",
               "awesome",
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8693,
+            "stars": 8694,
             "topics": [
               "cpp",
               "csharp",
@@ -1661,7 +1661,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3134,
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:04:07.476Z",
+    "last_updated": "2026-09-15T20:28:51.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
