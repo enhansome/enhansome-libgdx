@@ -21,7 +21,7 @@
                 "open_issues": 33,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1304,
+                "stars": 1305,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-trees",
@@ -56,7 +56,7 @@
                 "open_issues": 1,
                 "owner": "earlygrey",
                 "repo": "simple-graphs",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "graph",
                   "graph-algorithms",
@@ -182,7 +182,7 @@
                   "2d-game",
                   "cross-platform",
                   "game-development",
-                  "hyperlap2d",
+                  "game-engine",
                   "java",
                   "libgdx"
                 ]
@@ -205,7 +205,7 @@
                 "open_issues": 22,
                 "owner": "JamesTKhan",
                 "repo": "Mundus",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "3d-editor",
                   "libgdx",
@@ -258,7 +258,7 @@
                 "open_issues": 41,
                 "owner": "junkdog",
                 "repo": "artemis-odb",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "artemis-odb",
                   "entity-component-system",
@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "bindings",
                   "java",
@@ -506,7 +506,7 @@
                 "open_issues": 31,
                 "owner": "libgdx",
                 "repo": "packr",
-                "stars": 2621,
+                "stars": 2620,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -641,7 +641,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "libgdx"
                 ]
@@ -668,6 +668,31 @@
                 "topics": [
                   "libgdx",
                   "scene2d"
+                ]
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
+            },
+            {
+              "node_type": "item",
+              "title": "InGameConsole",
+              "description": "Allows a developer to add a console (similar to how it is featured in Source games) to their game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A LibGdx library that allows a developer to add a console (similar to how it is featured in Source games) to their game.",
+                "homepage": "https://www.strongjoshua.net/projects/games/libgdx-ingame-console",
+                "id": 29880228,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2021-09-17T00:39:05Z",
+                "open_issues": 8,
+                "owner": "StrongJoshua",
+                "repo": "libgdx-inGameConsole",
+                "stars": 136,
+                "topics": [
+                  "game",
+                  "java",
+                  "libgdx"
                 ]
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -706,31 +731,6 @@
             },
             {
               "node_type": "item",
-              "title": "InGameConsole",
-              "description": "Allows a developer to add a console (similar to how it is featured in Source games) to their game.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A LibGdx library that allows a developer to add a console (similar to how it is featured in Source games) to their game.",
-                "homepage": "https://www.strongjoshua.net/projects/games/libgdx-ingame-console",
-                "id": 29880228,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2021-09-17T00:39:05Z",
-                "open_issues": 8,
-                "owner": "StrongJoshua",
-                "repo": "libgdx-inGameConsole",
-                "stars": 135,
-                "topics": [
-                  "game",
-                  "java",
-                  "libgdx"
-                ]
-              },
-              "first_seen": "2026-08-29T01:11:30.231Z"
-            },
-            {
-              "node_type": "item",
               "title": "PieMenu",
               "description": "Radial menus for Scene2D that are highly flexible and easy to customize.",
               "children": [],
@@ -745,7 +745,7 @@
                 "open_issues": 1,
                 "owner": "payne911",
                 "repo": "PieMenu",
-                "stars": 88,
+                "stars": 90,
                 "topics": [
                   "circular-menu",
                   "custom-animated-widgets",
@@ -877,7 +877,7 @@
                 "open_issues": 22,
                 "owner": "mgsx-dev",
                 "repo": "gdx-gltf",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "gltf",
                   "gltf2",
@@ -934,7 +934,7 @@
                 "open_issues": 13,
                 "owner": "earlygrey",
                 "repo": "shapedrawer",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "cross-platform",
                   "drawing",
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "tommyettinger",
                 "repo": "colorful-gdx",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "aesthetic",
                   "color",
@@ -1166,7 +1166,7 @@
                 "open_issues": 0,
                 "owner": "spookygames",
                 "repo": "gdx-sfx",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1413,7 +1413,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "libgdx"
                 ]
@@ -1436,7 +1436,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "libgdx"
                 ]
@@ -1459,7 +1459,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "libgdx"
                 ]
@@ -1489,7 +1489,7 @@
                 "open_issues": 71,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7022,
+                "stars": 7023,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1532,7 +1532,7 @@
             "open_issues": 21,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49038,
+            "stars": 49041,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17320,
+            "stars": 17327,
             "topics": [
               "art",
               "awesome",
@@ -1590,11 +1590,11 @@
             "id": 40936978,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:46:55Z",
+            "last_commit": "2026-09-18T04:31:48Z",
             "open_issues": 20,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11380,
+            "stars": 11379,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:35:26.957Z",
+    "last_updated": "2026-09-18T20:00:58.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
