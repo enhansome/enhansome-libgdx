@@ -177,7 +177,7 @@
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "2d-game",
                   "cross-platform",
@@ -237,7 +237,7 @@
                 "open_issues": 20,
                 "owner": "libgdx",
                 "repo": "ashley",
-                "stars": 930,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -674,6 +674,38 @@
             },
             {
               "node_type": "item",
+              "title": "TextraTypist",
+              "description": "Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Augmented text display system for libGDX, based on typing-label",
+                "homepage": "https://tommyettinger.github.io/textratypist/",
+                "id": 408038659,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-10T03:27:54Z",
+                "open_issues": 7,
+                "owner": "tommyettinger",
+                "repo": "textratypist",
+                "stars": 137,
+                "topics": [
+                  "font",
+                  "gui",
+                  "java",
+                  "label",
+                  "libgdx",
+                  "scene2d",
+                  "text",
+                  "text-effects",
+                  "textratypist",
+                  "typing"
+                ]
+              },
+              "first_seen": "2026-08-29T01:11:30.231Z"
+            },
+            {
+              "node_type": "item",
               "title": "InGameConsole",
               "description": "Allows a developer to add a console (similar to how it is featured in Source games) to their game.",
               "children": [],
@@ -693,38 +725,6 @@
                   "game",
                   "java",
                   "libgdx"
-                ]
-              },
-              "first_seen": "2026-08-29T01:11:30.231Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TextraTypist",
-              "description": "Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Augmented text display system for libGDX, based on typing-label",
-                "homepage": "https://tommyettinger.github.io/textratypist/",
-                "id": 408038659,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-10T03:27:54Z",
-                "open_issues": 7,
-                "owner": "tommyettinger",
-                "repo": "textratypist",
-                "stars": 136,
-                "topics": [
-                  "font",
-                  "gui",
-                  "java",
-                  "label",
-                  "libgdx",
-                  "scene2d",
-                  "text",
-                  "text-effects",
-                  "textratypist",
-                  "typing"
                 ]
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1489,7 +1489,7 @@
                 "open_issues": 71,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7023,
+                "stars": 7026,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1528,11 +1528,11 @@
             "id": 21648001,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-24T00:59:50Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-19T07:52:41Z",
+            "open_issues": 1,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49041,
+            "stars": 49053,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17327,
+            "stars": 17331,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 20,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11379,
+            "stars": 11381,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8698,
+            "stars": 8699,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 18,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3137,
+            "stars": 3136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:00:58.596Z",
+    "last_updated": "2026-09-19T19:37:01.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
