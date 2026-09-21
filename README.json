@@ -173,7 +173,7 @@
                 "id": 280444703,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T08:57:55Z",
+                "last_commit": "2026-09-20T23:25:54Z",
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
@@ -527,7 +527,7 @@
                 "open_issues": 20,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 683,
+                "stars": 682,
                 "topics": [
                   "gdx",
                   "gdx-liftoff",
@@ -589,7 +589,7 @@
                 "open_issues": 27,
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 773,
+                "stars": 772,
                 "topics": [
                   "gui",
                   "java",
@@ -615,7 +615,7 @@
                 "open_issues": 1,
                 "owner": "czyzby",
                 "repo": "gdx-skins",
-                "stars": 537,
+                "stars": 536,
                 "topics": [
                   "assets",
                   "game-assets",
@@ -641,7 +641,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1236,7 +1236,7 @@
                 "open_issues": 18,
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
-                "stars": 708,
+                "stars": 707,
                 "topics": [
                   "libgdx",
                   "texture-atlas",
@@ -1263,7 +1263,7 @@
                 "open_issues": 2,
                 "owner": "BlueBoxWare",
                 "repo": "LibGDXPlugin",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "intellij-plugin",
                   "libgdx"
@@ -1413,7 +1413,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1436,7 +1436,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1459,7 +1459,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1489,7 +1489,7 @@
                 "open_issues": 71,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7029,
+                "stars": 7030,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1528,11 +1528,11 @@
             "id": 21648001,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-19T07:52:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-21T00:24:39Z",
+            "open_issues": 5,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49061,
+            "stars": 49076,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1556,7 +1556,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17338,
+            "stars": 17340,
             "topics": [
               "art",
               "awesome",
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8699,
+            "stars": 8700,
             "topics": [
               "cpp",
               "csharp",
@@ -1661,7 +1661,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3137,
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:50:38.116Z",
+    "last_updated": "2026-09-21T21:16:09.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
