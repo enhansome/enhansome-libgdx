@@ -18,7 +18,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-01T16:56:55Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
                 "stars": 1305,
@@ -173,11 +173,11 @@
                 "id": 280444703,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T07:24:53Z",
+                "last_commit": "2026-09-23T20:39:48Z",
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "2d-game",
                   "cross-platform",
@@ -684,7 +684,7 @@
                 "id": 408038659,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T08:22:48Z",
+                "last_commit": "2026-09-23T08:36:55Z",
                 "open_issues": 7,
                 "owner": "tommyettinger",
                 "repo": "textratypist",
@@ -1489,7 +1489,7 @@
                 "open_issues": 71,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7029,
+                "stars": 7031,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1528,11 +1528,11 @@
             "id": 21648001,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T00:24:39Z",
+            "last_commit": "2026-09-23T10:50:49Z",
             "open_issues": 5,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49087,
+            "stars": 49090,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:58:46Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-23T14:38:21Z",
+            "open_issues": 16,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17347,
+            "stars": 17355,
             "topics": [
               "art",
               "awesome",
@@ -1591,10 +1591,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T04:31:48Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11383,
+            "stars": 11382,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8701,
+            "stars": 8702,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3139,
+            "stars": 3141,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1183,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:30:06.182Z",
+    "last_updated": "2026-09-23T20:42:47.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
