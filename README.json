@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1305,
+                "stars": 1304,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-trees",
@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "bindings",
                   "java",
@@ -589,7 +589,7 @@
                 "open_issues": 27,
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 772,
+                "stars": 771,
                 "topics": [
                   "gui",
                   "java",
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-26T13:55:50Z",
-            "open_issues": 19,
+            "open_issues": 21,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17373,
+            "stars": 17375,
             "topics": [
               "art",
               "awesome",
@@ -1591,7 +1591,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T05:05:21Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
             "stars": 11384,
@@ -1622,7 +1622,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8710,
+            "stars": 8713,
             "topics": [
               "cpp",
               "csharp",
@@ -1661,10 +1661,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 22,
+            "open_issues": 25,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3149,
+            "stars": 3151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:27:47.164Z",
+    "last_updated": "2026-09-28T22:38:56.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
