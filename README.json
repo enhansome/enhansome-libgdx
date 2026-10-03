@@ -524,7 +524,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T02:36:49Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
                 "stars": 684,
@@ -660,7 +660,7 @@
                 "id": 80589571,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2024-05-30T13:16:06Z",
+                "last_commit": "2026-10-03T16:56:38Z",
                 "open_issues": 3,
                 "owner": "rafaskb",
                 "repo": "typing-label",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49144,
+            "stars": 49146,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-26T13:55:50Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17407,
+            "stars": 17415,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 24,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11384,
+            "stars": 11385,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1619,7 +1619,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
             "stars": 8717,
@@ -1664,7 +1664,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3161,
+            "stars": 3162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:29.842Z",
+    "last_updated": "2026-10-03T20:13:51.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1277,
+      "stars": 1278,
       "topics": [
         "awesome",
         "awesome-list",
