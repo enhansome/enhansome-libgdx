@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,602 | 🐛 106 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -69,7 +69,7 @@
 
 ### Services
 
-* [steamworks4j](https://github.com/code-disaster/steamworks4j) ⭐ 552 | 🐛 34 | 🌐 Java | 📅 2026-05-06 - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+* [steamworks4j](https://github.com/code-disaster/steamworks4j) ⭐ 553 | 🐛 34 | 🌐 Java | 📅 2026-05-06 - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 * [gdx-pay](https://github.com/libgdx/gdx-pay) ⭐ 243 | 🐛 9 | 🌐 Java | 📅 2026-06-16 - Provides a cross-platform API for InApp purchasing.
 * [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) ⭐ 116 | 🐛 7 | 🌐 Java | 📅 2025-03-11 - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
 * [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) ⭐ 67 | 🐛 12 | 🌐 Java | 📅 2024-04-15 - Cross-platform API for Firebase.
@@ -155,7 +155,7 @@
 
 ### General Learning Material
 
-* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,040 | 🐛 71 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,043 | 🐛 72 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,179 | 🐛 13 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,435 | 🐛 31 | 🌐 Markdown | 📅 2026-09-26 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,387 | 🐛 24 | 🌐 Kotlin | 📅 2026-10-05 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,723 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,166 | 🐛 27 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,183 | 🐛 14 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,431 | 🐛 31 | 🌐 Markdown | 📅 2026-10-06 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,388 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-05 - A curated list of awesome Kotlin related stuff.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,722 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,165 | 🐛 27 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,187 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
