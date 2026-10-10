@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 516,749 | 🐛 106 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 517,190 | 🐛 106 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -80,14 +80,14 @@
 ### Setup and Deployment
 
 * [Packr](https://github.com/libGDX/packr) ⭐ 2,620 | 🐛 31 | 🌐 C++ | 📅 2024-04-11 - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
-* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 684 | 🐛 21 | 🌐 Kotlin | 📅 2026-10-08 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 686 | 🐛 21 | 🌐 Kotlin | 📅 2026-10-08 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 * [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) ⭐ 14 | 🐛 0 | 📅 2026-08-20 - A skeleton project for making new libraries, since they need different config.
 
 ### User Interface
 
 * [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 772 | 🐛 27 | 🌐 Java | 📅 2026-06-02 - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 * [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 536 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
-* [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
+* [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
 * [TypingLabel](https://github.com/rafaskb/typing-label) ⭐ 161 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - A libGDX Label that appears as if it was being typed in real time.
 * [TextraTypist](https://github.com/tommyettinger/textratypist) ⭐ 138 | 🐛 7 | 🌐 Java | 📅 2026-10-09 - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 * [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) ⭐ 136 | 🐛 8 | 🌐 Java | 📅 2021-09-17 - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
@@ -108,18 +108,18 @@
 * [colorful-gdx](https://github.com/tommyettinger/colorful-gdx) ⭐ 92 | 🐛 0 | 🌐 Java | 📅 2026-04-29 - Expands how tinting can affect colors; also has many pre-written shaders.
 * [Particle Park](https://github.com/raeleus/Particle-Park) ⭐ 77 | 🐛 1 | 🌐 Java | 📅 2022-02-01 - A showcase of downloadable particle effects with live previews.
 * [gdx-graph](https://github.com/MarcinSc/gdx-graph) ⭐ 49 | 🐛 0 | 🌐 Java | 📅 2026-04-26 - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
-* [HackLights](https://github.com/aliasifk/HackLights) ⭐ 27 | 🐛 0 | 🌐 Java | 📅 2022-08-31 - Lightweight framebuffer based lighting engine for libGDX.
+* [HackLights](https://github.com/aliasifk/HackLights) ⭐ 28 | 🐛 0 | 🌐 Java | 📅 2022-08-31 - Lightweight framebuffer based lighting engine for libGDX.
 
 ### Audio
 
 * [gdx-miniaudio](https://github.com/rednblackgames/gdx-miniaudio) ⭐ 78 | 🐛 3 | 🌐 C | 📅 2026-10-08 - Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.
 * [TuningFork](https://github.com/Hangman/TuningFork) ⭐ 39 | 🐛 1 | 🌐 Java | 📅 2026-07-09 - Advanced 3D audio features for libGDX desktop users.
-* [gdx-pd](https://github.com/mgsx-dev/gdx-pd) ⭐ 27 | 🐛 8 | 🌐 Java | 📅 2020-05-28 - Pure Data extension for libGDX.
+* [gdx-pd](https://github.com/mgsx-dev/gdx-pd) ⭐ 29 | 🐛 8 | 🌐 Java | 📅 2020-05-28 - Pure Data extension for libGDX.
 * [gdx-sfx](https://github.com/spookygames/gdx-sfx) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2025-01-25 - Some goodies for better sound effects in libGDX.
 
 ### Others
 
-* [KTX](https://github.com/libktx/ktx) ⭐ 1,470 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
+* [KTX](https://github.com/libktx/ktx) ⭐ 1,469 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
 * [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 707 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
 * [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) ⭐ 160 | 🐛 2 | 🌐 Kotlin | 📅 2026-05-29 - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 * [noise4j](https://github.com/czyzby/noise4j) ⚠️ Archived - Simple map generators based on various procedural content generation tutorials.
@@ -134,9 +134,9 @@
 
 ### Getting Started
 
-* [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - A tutorial on deploying libGDX games with JPackage via Gradle commands.
-* [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Discusses the pros and cons of different progress bar design techniques with examples.
-* [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+* [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+* [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Discusses the pros and cons of different progress bar design techniques with examples.
+* [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 * [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
 * [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 * [Development Tutorial Playlist by Phillip Mod Dev](https://www.youtube.com/playlist?list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - A series of videos going over the basics of libGDX.
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,205 | 🐛 16 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,454 | 🐛 34 | 🌐 Markdown | 📅 2026-10-09 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,389 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-09 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,724 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,173 | 🐛 25 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,215 | 🐛 17 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,462 | 🐛 36 | 🌐 Markdown | 📅 2026-10-09 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,391 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-09 - A curated list of awesome Kotlin related stuff.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,726 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,175 | 🐛 26 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,188 | 🐛 6 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

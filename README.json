@@ -527,7 +527,7 @@
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 684,
+                "stars": 686,
                 "topics": [
                   "gdx",
                   "gdx-liftoff",
@@ -641,7 +641,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 477,
                 "topics": [
                   "libgdx"
                 ]
@@ -1061,7 +1061,7 @@
                 "open_issues": 0,
                 "owner": "aliasifk",
                 "repo": "HackLights",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1145,7 +1145,7 @@
                 "open_issues": 8,
                 "owner": "mgsx-dev",
                 "repo": "gdx-pd",
-                "stars": 27,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 12,
                 "owner": "libktx",
                 "repo": "ktx",
-                "stars": 1470,
+                "stars": 1469,
                 "topics": [
                   "android",
                   "async",
@@ -1413,7 +1413,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 477,
                 "topics": [
                   "libgdx"
                 ]
@@ -1436,7 +1436,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 477,
                 "topics": [
                   "libgdx"
                 ]
@@ -1459,7 +1459,7 @@
                 "open_issues": 18,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 478,
+                "stars": 477,
                 "topics": [
                   "libgdx"
                 ]
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49205,
+            "stars": 49215,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-10-09T13:42:22Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17454,
+            "stars": 17462,
             "topics": [
               "art",
               "awesome",
@@ -1591,10 +1591,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T12:09:08Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11389,
+            "stars": 11391,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8724,
+            "stars": 8726,
             "topics": [
               "cpp",
               "csharp",
@@ -1661,10 +1661,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3173,
+            "stars": 3175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:53:19.949Z",
+    "last_updated": "2026-10-10T20:43:37.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1278,
+      "stars": 1277,
       "topics": [
         "awesome",
         "awesome-list",
