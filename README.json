@@ -688,7 +688,7 @@
                 "open_issues": 7,
                 "owner": "tommyettinger",
                 "repo": "textratypist",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "font",
                   "gui",
@@ -1312,7 +1312,7 @@
                 "open_issues": 12,
                 "owner": "libgdx",
                 "repo": "gdx-jnigen",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "gradle",
                   "java",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49215,
+            "stars": 49225,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-10-09T13:42:22Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17462,
+            "stars": 17467,
             "topics": [
               "art",
               "awesome",
@@ -1594,7 +1594,7 @@
             "open_issues": 30,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11391,
+            "stars": 11390,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8726,
+            "stars": 8727,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 26,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:43:37.877Z",
+    "last_updated": "2026-10-11T21:05:36.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
