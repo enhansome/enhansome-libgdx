@@ -173,11 +173,11 @@
                 "id": 280444703,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T22:25:09Z",
+                "last_commit": "2026-10-23T22:45:17Z",
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 446,
+                "stars": 447,
                 "topics": [
                   "2d-game",
                   "cross-platform",
@@ -527,7 +527,7 @@
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "gdx",
                   "gdx-liftoff",
@@ -745,7 +745,7 @@
                 "open_issues": 1,
                 "owner": "payne911",
                 "repo": "PieMenu",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "circular-menu",
                   "custom-animated-widgets",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49325,
+            "stars": 49340,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:35:07Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-23T21:19:07Z",
+            "open_issues": 48,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17564,
+            "stars": 17571,
             "topics": [
               "art",
               "awesome",
@@ -1622,7 +1622,7 @@
             "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8753,
+            "stars": 8752,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3194,
+            "stars": 3195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:40:26.216Z",
+    "last_updated": "2026-10-24T19:51:41.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1276,
+      "stars": 1275,
       "topics": [
         "awesome",
         "awesome-list",
