@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 526,278 | 🐛 105 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 526,816 | 🐛 105 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -41,7 +41,7 @@
 
 ### Algorithms and AI
 
-* [gdx-ai](https://github.com/libgdx/gdx-ai) ⭐ 1,304 | 🐛 32 | 🌐 Java | 📅 2024-10-01 - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+* [gdx-ai](https://github.com/libgdx/gdx-ai) ⭐ 1,305 | 🐛 32 | 🌐 Java | 📅 2024-10-01 - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
 * [Simple Graphs](https://github.com/earlygrey/simple-graphs) ⭐ 53 | 🐛 1 | 🌐 Java | 📅 2023-01-10 - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Controllers
@@ -58,7 +58,7 @@
 
 ### Entity Component System (ECS)
 
-* [Ashley](https://github.com/libgdx/ashley) ⭐ 928 | 🐛 20 | 🌐 Java | 📅 2023-06-26 - A Java entity system inspired by Ash & Artemis.
+* [Ashley](https://github.com/libgdx/ashley) ⭐ 927 | 🐛 20 | 🌐 Java | 📅 2023-06-26 - A Java entity system inspired by Ash & Artemis.
 * [Artemis-odb](https://github.com/junkdog/artemis-odb) ⭐ 831 | 🐛 41 | 🌐 Java | 📅 2023-04-14 - High performance java based Entity-Component-System framework.
 
 ### Physics
@@ -87,7 +87,7 @@
 
 * [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 773 | 🐛 27 | 🌐 Java | 📅 2026-06-02 - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 * [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 537 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
-* [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
+* [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
 * [TypingLabel](https://github.com/rafaskb/typing-label) ⭐ 162 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - A libGDX Label that appears as if it was being typed in real time.
 * [TextraTypist](https://github.com/tommyettinger/textratypist) ⭐ 139 | 🐛 7 | 🌐 Java | 📅 2026-10-28 - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 * [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) ⭐ 136 | 🐛 8 | 🌐 Java | 📅 2021-09-17 - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
@@ -101,7 +101,7 @@
 ### Visual Effects
 
 * [Box2DLights](https://github.com/libgdx/box2dlights) ⭐ 265 | 🐛 15 | 🌐 Java | 📅 2026-07-17 - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-* [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) ⭐ 249 | 🐛 22 | 🌐 Java | 📅 2026-02-05 - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
+* [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) ⭐ 250 | 🐛 22 | 🌐 Java | 📅 2026-02-05 - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 * [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) ⭐ 212 | 🐛 9 | 🌐 Java | 📅 2026-08-15 - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 * [Shape Drawer](https://github.com/earlygrey/shapedrawer) ⭐ 202 | 🐛 13 | 🌐 Java | 📅 2024-10-20 - A performant alternative to ShapeRenderer that avoids Batch flushing.
 * [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) ⭐ 115 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - A screen manager for libGDX supporting various transition effects
@@ -134,9 +134,9 @@
 
 ### Getting Started
 
-* [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - A tutorial on deploying libGDX games with JPackage via Gradle commands.
-* [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Discusses the pros and cons of different progress bar design techniques with examples.
-* [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) ⭐ 477 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+* [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+* [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Discusses the pros and cons of different progress bar design techniques with examples.
+* [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) ⭐ 478 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 * [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
 * [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 * [Development Tutorial Playlist by Phillip Mod Dev](https://www.youtube.com/playlist?list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - A series of videos going over the basics of libGDX.
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,373 | 🐛 30 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,615 | 🐛 44 | 🌐 Markdown | 📅 2026-10-28 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,399 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-23 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,760 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,202 | 🐛 34 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,382 | 🐛 31 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,631 | 🐛 45 | 🌐 Markdown | 📅 2026-10-29 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,401 | 🐛 54 | 🌐 Kotlin | 📅 2026-10-23 - A curated list of awesome Kotlin related stuff.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,762 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,204 | 🐛 37 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,189 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
