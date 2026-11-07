@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 532,436 | 🐛 103 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 533,130 | 🐛 103 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -120,7 +120,7 @@
 ### Others
 
 * [KTX](https://github.com/libktx/ktx) ⭐ 1,471 | 🐛 12 | 🌐 Kotlin | 📅 2025-06-28 - Kotlin extensions and utilities for libGDX.
-* [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 709 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
+* [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 710 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
 * [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) ⭐ 160 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-06 - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 * [noise4j](https://github.com/czyzby/noise4j) ⚠️ Archived - Simple map generators based on various procedural content generation tutorials.
 * [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) ⭐ 88 | 🐛 12 | 🌐 Java | 📅 2026-09-13 - Small library that allows C/C++ code to be written inline with Java source code.
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,455 | 🐛 37 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,705 | 🐛 42 | 🌐 Markdown | 📅 2026-11-05 - A list of Game Development resources to make magic happen.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,467 | 🐛 37 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,716 | 🐛 43 | 🌐 Markdown | 📅 2026-11-05 - A list of Game Development resources to make magic happen.
 * [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,406 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-06 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,774 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,212 | 🐛 39 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,773 | 🐛 4 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,213 | 🐛 39 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,191 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

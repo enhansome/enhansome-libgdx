@@ -1236,7 +1236,7 @@
                 "open_issues": 18,
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "libgdx",
                   "texture-atlas",
@@ -1532,7 +1532,7 @@
             "open_issues": 37,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49455,
+            "stars": 49467,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-11-05T18:29:10Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17705,
+            "stars": 17716,
             "topics": [
               "art",
               "awesome",
@@ -1622,7 +1622,7 @@
             "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8774,
+            "stars": 8773,
             "topics": [
               "cpp",
               "csharp",
@@ -1664,7 +1664,7 @@
             "open_issues": 39,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3212,
+            "stars": 3213,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:26:09.093Z",
+    "last_updated": "2026-11-07T21:05:29.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
