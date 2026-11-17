@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 537,455 | 🐛 104 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 538,018 | 🐛 104 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -70,7 +70,7 @@
 ### Services
 
 * [steamworks4j](https://github.com/code-disaster/steamworks4j) ⭐ 553 | 🐛 34 | 🌐 Java | 📅 2026-05-06 - A thin wrapper which allows Java applications to access the Steamworks C++ API.
-* [gdx-pay](https://github.com/libgdx/gdx-pay) ⭐ 244 | 🐛 9 | 🌐 Java | 📅 2026-11-04 - Provides a cross-platform API for InApp purchasing.
+* [gdx-pay](https://github.com/libgdx/gdx-pay) ⭐ 243 | 🐛 9 | 🌐 Java | 📅 2026-11-04 - Provides a cross-platform API for InApp purchasing.
 * [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) ⭐ 116 | 🐛 7 | 🌐 Java | 📅 2025-03-11 - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
 * [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) ⭐ 67 | 🐛 12 | 🌐 Java | 📅 2024-04-15 - Cross-platform API for Firebase.
 * [gdx-facebook](https://github.com/TomGrill/gdx-facebook) ⭐ 58 | 🐛 8 | 🌐 Java | 📅 2018-12-04 - Provides cross-platform support for Facebook Graph API.
@@ -86,7 +86,7 @@
 ### User Interface
 
 * [VisUI](https://github.com/kotcrab/vis-ui) ⭐ 775 | 🐛 27 | 🌐 Java | 📅 2026-06-02 - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
-* [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 536 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
+* [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 537 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
 * [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 479 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
 * [TypingLabel](https://github.com/rafaskb/typing-label) ⭐ 162 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - A libGDX Label that appears as if it was being typed in real time.
 * [TextraTypist](https://github.com/tommyettinger/textratypist) ⭐ 139 | 🐛 6 | 🌐 Java | 📅 2026-11-11 - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
@@ -102,7 +102,7 @@
 
 * [Box2DLights](https://github.com/libgdx/box2dlights) ⭐ 265 | 🐛 15 | 🌐 Java | 📅 2026-07-17 - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 * [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) ⭐ 251 | 🐛 22 | 🌐 Java | 📅 2026-02-05 - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
-* [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) ⭐ 212 | 🐛 9 | 🌐 Java | 📅 2026-08-15 - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
+* [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) ⭐ 211 | 🐛 9 | 🌐 Java | 📅 2026-08-15 - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 * [Shape Drawer](https://github.com/earlygrey/shapedrawer) ⭐ 202 | 🐛 13 | 🌐 Java | 📅 2024-10-20 - A performant alternative to ShapeRenderer that avoids Batch flushing.
 * [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) ⭐ 115 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - A screen manager for libGDX supporting various transition effects
 * [colorful-gdx](https://github.com/tommyettinger/colorful-gdx) ⭐ 92 | 🐛 0 | 🌐 Java | 📅 2026-11-11 - Expands how tinting can affect colors; also has many pre-written shaders.
@@ -123,7 +123,7 @@
 * [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) ⭐ 711 | 🐛 18 | 🌐 Java | 📅 2024-08-09 - A simple way to pack and manage texture atlases for libGDX game framework.
 * [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) ⭐ 160 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-13 - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 * [noise4j](https://github.com/czyzby/noise4j) ⚠️ Archived - Simple map generators based on various procedural content generation tutorials.
-* [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) ⭐ 88 | 🐛 12 | 🌐 Java | 📅 2026-09-13 - Small library that allows C/C++ code to be written inline with Java source code.
+* [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) ⭐ 88 | 🐛 11 | 🌐 Java | 📅 2026-11-16 - Small library that allows C/C++ code to be written inline with Java source code.
 * [anim8-gdx](https://github.com/tommyettinger/anim8-gdx) ⭐ 54 | 🐛 1 | 🌐 Java | 📅 2026-08-20 - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
 * [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2019-11-20 - A utility class that records a GIF and saves it automatically.
 * [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2022-03-25 - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified.
@@ -155,7 +155,7 @@
 
 ### General Learning Material
 
-* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,078 | 🐛 72 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,079 | 🐛 72 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
@@ -179,11 +179,11 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,540 | 🐛 43 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,783 | 🐛 47 | 🌐 Markdown | 📅 2026-11-13 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,411 | 🐛 38 | 🌐 Kotlin | 📅 2026-11-13 - A curated list of awesome Kotlin related stuff.
-* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,795 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,223 | 🐛 41 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,557 | 🐛 47 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,794 | 🐛 39 | 🌐 Markdown | 📅 2026-11-16 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,411 | 🐛 34 | 🌐 Kotlin | 📅 2026-11-16 - A curated list of awesome Kotlin related stuff.
+* [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,797 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,225 | 🐛 41 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
 * [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,190 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
