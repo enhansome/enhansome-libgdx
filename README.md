@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 538,018 | 🐛 104 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 538,538 | 🐛 104 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -75,12 +75,12 @@
 * [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) ⭐ 67 | 🐛 12 | 🌐 Java | 📅 2024-04-15 - Cross-platform API for Firebase.
 * [gdx-facebook](https://github.com/TomGrill/gdx-facebook) ⭐ 58 | 🐛 8 | 🌐 Java | 📅 2018-12-04 - Provides cross-platform support for Facebook Graph API.
 * [gdx-firebase](https://github.com/TomGrill/gdx-firebase) ⭐ 37 | 🐛 1 | 🌐 Java | 📅 2019-04-24 - Cross-platform (only Desktop/Android) API for Firebase.
-* [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics) ⭐ 30 | 🐛 0 | 🌐 Java | 📅 2021-02-06 - Game Analytics REST API client implementation for libGDX. Works on all backends.
+* [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics) ⭐ 30 | 🐛 1 | 🌐 Java | 📅 2021-02-06 - Game Analytics REST API client implementation for libGDX. Works on all backends.
 
 ### Setup and Deployment
 
 * [Packr](https://github.com/libGDX/packr) ⭐ 2,618 | 🐛 31 | 🌐 C++ | 📅 2024-04-11 - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
-* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 693 | 🐛 21 | 🌐 Kotlin | 📅 2026-11-14 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+* [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) ⭐ 694 | 🐛 21 | 🌐 Kotlin | 📅 2026-11-14 - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 * [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) ⭐ 14 | 🐛 0 | 📅 2026-10-20 - A skeleton project for making new libraries, since they need different config.
 
 ### User Interface
@@ -89,7 +89,7 @@
 * [gdx-skins](https://github.com/czyzby/gdx-skins) ⭐ 537 | 🐛 1 | 📅 2022-08-22 - Free Scene2D GUI skins.
 * [Skin Composer](https://github.com/raeleus/skin-composer) ⭐ 479 | 🐛 18 | 🌐 Java | 📅 2024-05-20 - Create skins for libGDX scene2d.ui with a graphical interface.
 * [TypingLabel](https://github.com/rafaskb/typing-label) ⭐ 162 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - A libGDX Label that appears as if it was being typed in real time.
-* [TextraTypist](https://github.com/tommyettinger/textratypist) ⭐ 139 | 🐛 6 | 🌐 Java | 📅 2026-11-11 - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+* [TextraTypist](https://github.com/tommyettinger/textratypist) ⭐ 140 | 🐛 6 | 🌐 Java | 📅 2026-11-11 - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 * [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) ⭐ 136 | 🐛 8 | 🌐 Java | 📅 2021-09-17 - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 * [PieMenu](https://github.com/payne911/PieMenu) ⭐ 91 | 🐛 1 | 🌐 Java | 📅 2022-12-01 - Radial menus for Scene2D that are highly flexible and easy to customize.
 * [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) ⭐ 79 | 🐛 5 | 🌐 Java | 📅 2019-12-31 - Provides cross-platform support for native dialogs.
@@ -179,12 +179,12 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,557 | 🐛 47 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,794 | 🐛 39 | 🌐 Markdown | 📅 2026-11-16 - A list of Game Development resources to make magic happen.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,563 | 🐛 50 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,811 | 🐛 42 | 🌐 Markdown | 📅 2026-11-17 - A list of Game Development resources to make magic happen.
 * [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,411 | 🐛 34 | 🌐 Kotlin | 📅 2026-11-16 - A curated list of awesome Kotlin related stuff.
 * [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,797 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,225 | 🐛 41 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
-* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,190 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,229 | 🐛 44 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,191 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
 ***
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

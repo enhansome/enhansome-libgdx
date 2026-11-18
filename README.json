@@ -472,7 +472,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2021-02-06T11:40:25Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "MrStahlfelge",
                 "repo": "gdx-gameanalytics",
                 "stars": 30,
@@ -527,7 +527,7 @@
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "gdx",
                   "gdx-liftoff",
@@ -688,7 +688,7 @@
                 "open_issues": 6,
                 "owner": "tommyettinger",
                 "repo": "textratypist",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "font",
                   "gui",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 47,
+            "open_issues": 50,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49557,
+            "stars": 49563,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:48:20Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-17T15:04:58Z",
+            "open_issues": 42,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17794,
+            "stars": 17811,
             "topics": [
               "art",
               "awesome",
@@ -1661,10 +1661,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 41,
+            "open_issues": 44,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3225,
+            "stars": 3229,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1190,
+            "stars": 1191,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:07:11.047Z",
+    "last_updated": "2026-11-18T00:01:28.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
