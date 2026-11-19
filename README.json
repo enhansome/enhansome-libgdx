@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1305,
+                "stars": 1304,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-trees",
@@ -177,7 +177,7 @@
                 "open_issues": 11,
                 "owner": "rednblackgames",
                 "repo": "HyperLap2D",
-                "stars": 451,
+                "stars": 450,
                 "topics": [
                   "2d-game",
                   "cross-platform",
@@ -237,7 +237,7 @@
                 "open_issues": 20,
                 "owner": "libgdx",
                 "repo": "ashley",
-                "stars": 928,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 553,
+                "stars": 552,
                 "topics": [
                   "bindings",
                   "java",
@@ -506,7 +506,7 @@
                 "open_issues": 31,
                 "owner": "libgdx",
                 "repo": "packr",
-                "stars": 2618,
+                "stars": 2619,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:30.231Z"
@@ -523,7 +523,7 @@
                 "id": 188758773,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T03:21:47Z",
+                "last_commit": "2026-11-19T23:45:53Z",
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
@@ -552,7 +552,7 @@
                 "id": 409007702,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-20T08:38:42Z",
+                "last_commit": "2026-11-19T23:48:22Z",
                 "open_issues": 0,
                 "owner": "tommyettinger",
                 "repo": "libgdx-library-template",
@@ -589,7 +589,7 @@
                 "open_issues": 27,
                 "owner": "kotcrab",
                 "repo": "vis-ui",
-                "stars": 775,
+                "stars": 774,
                 "topics": [
                   "gui",
                   "java",
@@ -615,7 +615,7 @@
                 "open_issues": 1,
                 "owner": "czyzby",
                 "repo": "gdx-skins",
-                "stars": 537,
+                "stars": 535,
                 "topics": [
                   "assets",
                   "game-assets",
@@ -638,7 +638,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2024-05-20T14:39:55Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 479,
@@ -1194,7 +1194,7 @@
                 "open_issues": 12,
                 "owner": "libktx",
                 "repo": "ktx",
-                "stars": 1471,
+                "stars": 1470,
                 "topics": [
                   "android",
                   "async",
@@ -1236,7 +1236,7 @@
                 "open_issues": 18,
                 "owner": "crashinvaders",
                 "repo": "gdx-texture-packer-gui",
-                "stars": 711,
+                "stars": 712,
                 "topics": [
                   "libgdx",
                   "texture-atlas",
@@ -1410,7 +1410,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2024-05-20T14:39:55Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 479,
@@ -1433,7 +1433,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2024-05-20T14:39:55Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 479,
@@ -1456,7 +1456,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2024-05-20T14:39:55Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
                 "stars": 479,
@@ -1489,7 +1489,7 @@
                 "open_issues": 72,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7080,
+                "stars": 7081,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49569,
+            "stars": 49578,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:50:53Z",
+            "last_commit": "2026-11-19T21:32:11Z",
             "open_issues": 1,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17821,
+            "stars": 17828,
             "topics": [
               "art",
               "awesome",
@@ -1591,10 +1591,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T11:21:47Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11413,
+            "stars": 11415,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1622,7 +1622,7 @@
             "open_issues": 6,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8797,
+            "stars": 8796,
             "topics": [
               "cpp",
               "csharp",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1191,
+            "stars": 1190,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:37:11.164Z",
+    "last_updated": "2026-11-19T23:54:58.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
@@ -1713,7 +1713,7 @@
       "open_issues": 9,
       "owner": "rafaskb",
       "repo": "awesome-libgdx",
-      "stars": 1278,
+      "stars": 1276,
       "topics": [
         "awesome",
         "awesome-list",
