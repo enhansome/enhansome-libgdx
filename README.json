@@ -321,7 +321,7 @@
                 "open_issues": 34,
                 "owner": "code-disaster",
                 "repo": "steamworks4j",
-                "stars": 552,
+                "stars": 553,
                 "topics": [
                   "bindings",
                   "java",
@@ -527,7 +527,7 @@
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
-                "stars": 694,
+                "stars": 695,
                 "topics": [
                   "gdx",
                   "gdx-liftoff",
@@ -641,7 +641,7 @@
                 "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1413,7 +1413,7 @@
                 "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1436,7 +1436,7 @@
                 "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1459,7 +1459,7 @@
                 "open_issues": 19,
                 "owner": "raeleus",
                 "repo": "skin-composer",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "libgdx"
                 ]
@@ -1489,7 +1489,7 @@
                 "open_issues": 72,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7080,
+                "stars": 7083,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49588,
+            "stars": 49598,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-11-19T21:32:11Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17837,
+            "stars": 17845,
             "topics": [
               "art",
               "awesome",
@@ -1590,11 +1590,11 @@
             "id": 40936978,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T02:43:38Z",
+            "last_commit": "2026-11-21T10:51:26Z",
             "open_issues": 41,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11415,
+            "stars": 11416,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1661,10 +1661,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3229,
+            "stars": 3230,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:24:36.651Z",
+    "last_updated": "2026-11-21T22:27:52.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
