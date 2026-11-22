@@ -6,7 +6,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 540,511 | 🐛 103 | 📅 2026-09-02.
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 541,081 | 🐛 103 | 📅 2026-09-02.
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -41,7 +41,7 @@
 
 ### Algorithms and AI
 
-* [gdx-ai](https://github.com/libgdx/gdx-ai) ⭐ 1,304 | 🐛 32 | 🌐 Java | 📅 2024-10-01 - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+* [gdx-ai](https://github.com/libgdx/gdx-ai) ⭐ 1,303 | 🐛 32 | 🌐 Java | 📅 2024-10-01 - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
 * [Simple Graphs](https://github.com/earlygrey/simple-graphs) ⭐ 53 | 🐛 1 | 🌐 Java | 📅 2023-01-10 - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Controllers
@@ -155,7 +155,7 @@
 
 ### General Learning Material
 
-* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,083 | 🐛 72 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+* [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) ⭐ 7,087 | 🐛 72 | 🌐 GLSL | 📅 2026-02-28 - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
 ## Assets
@@ -179,12 +179,12 @@
 
 *Other awesome lists that might be useful to libGDX developers.*
 
-* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,598 | 🐛 54 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
-* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,845 | 🐛 4 | 🌐 Markdown | 📅 2026-11-19 - A list of Game Development resources to make magic happen.
-* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,416 | 🐛 41 | 🌐 Kotlin | 📅 2026-11-21 - A curated list of awesome Kotlin related stuff.
+* [Java](https://github.com/akullpp/awesome-java) ⭐ 49,611 | 🐛 54 | 📅 2026-09-23 - A curated list of awesome Java frameworks, libraries and software.
+* [Magic Tools](https://github.com/ellisonleao/magictools) ⭐ 17,856 | 🐛 6 | 🌐 Markdown | 📅 2026-11-19 - A list of Game Development resources to make magic happen.
+* [Kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,417 | 🐛 34 | 🌐 Kotlin | 📅 2026-11-22 - A curated list of awesome Kotlin related stuff.
 * [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) ⭐ 8,796 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A Curated List of Game Network Programming Resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,230 | 🐛 45 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
-* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,190 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,232 | 🐛 46 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games.
+* [Game Talks](https://github.com/hzoo/awesome-gametalks) ⭐ 1,191 | 🐛 7 | 📅 2024-05-09 - A curated list of gaming talks (development, design, etc).
 * [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
 ***
@@ -199,4 +199,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

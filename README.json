@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "libgdx",
                 "repo": "gdx-ai",
-                "stars": 1304,
+                "stars": 1303,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-trees",
@@ -1489,7 +1489,7 @@
                 "open_issues": 72,
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 7083,
+                "stars": 7087,
                 "topics": [
                   "book",
                   "fragment-shader",
@@ -1532,7 +1532,7 @@
             "open_issues": 54,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49598,
+            "stars": 49611,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1553,10 +1553,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-11-19T21:32:11Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17845,
+            "stars": 17856,
             "topics": [
               "art",
               "awesome",
@@ -1590,11 +1590,11 @@
             "id": 40936978,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T10:51:26Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-22T11:01:14Z",
+            "open_issues": 34,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11416,
+            "stars": 11417,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -1661,10 +1661,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3230,
+            "stars": 3232,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1691,7 +1691,7 @@
             "open_issues": 7,
             "owner": "hzoo",
             "repo": "awesome-gametalks",
-            "stars": 1190,
+            "stars": 1191,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:30.231Z"
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:27:52.183Z",
+    "last_updated": "2026-11-22T22:51:09.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
