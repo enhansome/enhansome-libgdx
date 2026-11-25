@@ -523,7 +523,7 @@
                 "id": 188758773,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T08:19:11Z",
+                "last_commit": "2026-11-24T09:39:47Z",
                 "open_issues": 21,
                 "owner": "libgdx",
                 "repo": "gdx-liftoff",
@@ -1085,7 +1085,7 @@
                 "id": 491398414,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T16:05:03Z",
+                "last_commit": "2026-11-24T20:37:48Z",
                 "open_issues": 3,
                 "owner": "rednblackgames",
                 "repo": "gdx-miniaudio",
@@ -1529,10 +1529,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49621,
+            "stars": 49634,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1552,11 +1552,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-11-23T17:30:32Z",
+            "last_commit": "2026-11-24T19:36:42Z",
             "open_issues": 5,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17859,
+            "stars": 17865,
             "topics": [
               "art",
               "awesome",
@@ -1591,7 +1591,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T00:14:43Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
             "stars": 11417,
@@ -1664,7 +1664,7 @@
             "open_issues": 47,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3234,
+            "stars": 3235,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:29:10.847Z",
+    "last_updated": "2026-11-25T01:38:20.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎮 📝 A curated list of libGDX resources to help developers make awesome games.",
